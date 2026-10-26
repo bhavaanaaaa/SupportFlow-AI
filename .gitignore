@@ -1,0 +1,21 @@
+# Environment variables
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+backend/.venv/
+.venv/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Database
+backend/supportflow.db
+*.db
+*.sqlite3
